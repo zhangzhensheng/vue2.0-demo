@@ -1,18 +1,7 @@
- angular.callbacks._0({
- 	"child_1":[
- 		{"name":"Rongbo_J","age":"23"},
- 		{"name":"Jane","age":"15"}
- 	],
- 	"child_2":[
- 		{"name":"ZZS","age":"25"},
- 		{"name":"RED","age":"24"}
- 	],
- 	"child_3":[
- 		{"name":"XF","age":"28"},
- 		{"name":"HB","age":"25"}
- 	],
- 	"child_4":[
- 		{"name":"XHG","age":"26"},
- 		{"name":"XL","age":"22"}
- 	],
- })
+{
+"sites": [
+{ "name":"菜鸟教程" , "url":"www.runoob.com" }, 
+{ "name":"google" , "url":"www.google.com" }, 
+{ "name":"微博" , "url":"www.weibo.com" }
+]
+}
